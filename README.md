@@ -112,3 +112,7 @@ Automatic monthly reports.
 Integration with company accounting systems.
 
 The Expense Tracker using Python is a useful mini project that demonstrates the application of programming concepts in real-world financial management. Developed in Visual Studio Code, this system provides an efficient way to record and analyze expenses. For the mining sector, where cost management plays an important role, this application can help maintain better control over operational spending. The project shows how Python can be used to develop practical software solutions that improve accuracy, productivity, and decision-making.
+
+OUTPUT:
+
+<img width="1917" height="1077" alt="Image" src="https://github.com/user-attachments/assets/e72d49ce-29c5-4673-9dd5-99a11b9fd5b2" />
